@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.903cd480.css",
-    "main.js": "./static/js/main.bd55356d.js",
-    "static/js/787.93a9d064.chunk.js": "./static/js/787.93a9d064.chunk.js",
-    "static/media/anna.png": "./static/media/anna.33a40e94b3d8669ab61f.png",
-    "static/media/ciosp.PNG": "./static/media/ciosp.16f4d086aeaf2dd9496a.PNG",
-    "static/media/antesThais.png": "./static/media/antesThais.d8eadf6452d26a97a7a5.png",
-    "static/media/antesCharles.png": "./static/media/antesCharles.86fc0c339b4bbb0c2f59.png",
-    "static/media/depoisCharles.png": "./static/media/depoisCharles.2b59f4f9373f7089723a.png",
-    "static/media/depoisThais.png": "./static/media/depoisThais.9d3bb9266563054be2eb.png",
-    "static/media/atendone.jpeg": "./static/media/atendone.9f48bd4e56b54fd26292.jpeg",
-    "static/media/atendtwo.jpeg": "./static/media/atendtwo.b03979991d213a766691.jpeg",
-    "static/media/atendthree.jpeg": "./static/media/atendthree.70451e4b5409d1fe497a.jpeg",
-    "index.html": "./index.html",
-    "main.903cd480.css.map": "./static/css/main.903cd480.css.map",
-    "main.bd55356d.js.map": "./static/js/main.bd55356d.js.map",
-    "787.93a9d064.chunk.js.map": "./static/js/787.93a9d064.chunk.js.map"
+    "main.css": "/portfolio-annauchoa/static/css/main.903cd480.css",
+    "main.js": "/portfolio-annauchoa/static/js/main.487c7ecc.js",
+    "static/js/787.93a9d064.chunk.js": "/portfolio-annauchoa/static/js/787.93a9d064.chunk.js",
+    "static/media/anna.png": "/portfolio-annauchoa/static/media/anna.33a40e94b3d8669ab61f.png",
+    "static/media/ciosp.PNG": "/portfolio-annauchoa/static/media/ciosp.16f4d086aeaf2dd9496a.PNG",
+    "static/media/antesThais.png": "/portfolio-annauchoa/static/media/antesThais.d8eadf6452d26a97a7a5.png",
+    "static/media/antesCharles.png": "/portfolio-annauchoa/static/media/antesCharles.86fc0c339b4bbb0c2f59.png",
+    "static/media/depoisCharles.png": "/portfolio-annauchoa/static/media/depoisCharles.2b59f4f9373f7089723a.png",
+    "static/media/depoisThais.png": "/portfolio-annauchoa/static/media/depoisThais.9d3bb9266563054be2eb.png",
+    "static/media/atendone.jpeg": "/portfolio-annauchoa/static/media/atendone.9f48bd4e56b54fd26292.jpeg",
+    "static/media/atendtwo.jpeg": "/portfolio-annauchoa/static/media/atendtwo.b03979991d213a766691.jpeg",
+    "static/media/atendthree.jpeg": "/portfolio-annauchoa/static/media/atendthree.70451e4b5409d1fe497a.jpeg",
+    "index.html": "/portfolio-annauchoa/index.html",
+    "main.903cd480.css.map": "/portfolio-annauchoa/static/css/main.903cd480.css.map",
+    "main.487c7ecc.js.map": "/portfolio-annauchoa/static/js/main.487c7ecc.js.map",
+    "787.93a9d064.chunk.js.map": "/portfolio-annauchoa/static/js/787.93a9d064.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.903cd480.css",
-    "static/js/main.bd55356d.js"
+    "static/js/main.487c7ecc.js"
   ]
 }
